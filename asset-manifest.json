@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-landing-page/static/css/main.3868563f.css",
+    "main.js": "/react-landing-page/static/js/main.afc8ba8c.js",
+    "static/media/gradients.png": "/react-landing-page/static/media/gradients.499280c3ab26f4242176.png",
+    "static/media/dash.png": "/react-landing-page/static/media/dash.478520ac0854c4ed0034.png",
+    "static/media/phone.png": "/react-landing-page/static/media/phone.34fe359a91d635764c4a.png",
+    "static/media/Mask group.png": "/react-landing-page/static/media/Mask group.88a4ab182ea2d70d7698.png",
+    "static/media/1.png": "/react-landing-page/static/media/1.769fd266197d2a4b2aba.png",
+    "static/media/BG.png": "/react-landing-page/static/media/BG.fe9aa4c8707be4756a52.png",
+    "static/media/MADEMellowPERSONALUSE-Light.woff2": "/react-landing-page/static/media/MADEMellowPERSONALUSE-Light.f8f05882ad94ff31810d.woff2",
+    "static/media/indiv.png": "/react-landing-page/static/media/indiv.daf21454fb408d88e2aa.png",
+    "static/media/MADEMellowPERSONALUSE-Bold.woff2": "/react-landing-page/static/media/MADEMellowPERSONALUSE-Bold.b0a4fd490011b3e4b507.woff2",
+    "static/media/aeoniktrial-regular-webfont.woff": "/react-landing-page/static/media/aeoniktrial-regular-webfont.0d133f8fb9bf4fb0c51d.woff",
+    "static/media/aeoniktrial-regular-webfont.woff2": "/react-landing-page/static/media/aeoniktrial-regular-webfont.b89085035f3b075e035d.woff2",
+    "index.html": "/react-landing-page/index.html",
+    "main.3868563f.css.map": "/react-landing-page/static/css/main.3868563f.css.map",
+    "main.afc8ba8c.js.map": "/react-landing-page/static/js/main.afc8ba8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3868563f.css",
+    "static/js/main.afc8ba8c.js"
+  ]
+}
